@@ -1,13 +1,4 @@
 # main.py
-"""
-Snake Game
-- Menu (Start New Game, View High Scores, Toggle Sound, Exit)
-- Background music from resources/background.mp3 (toggleable)
-- Pause / resume in-game with 'P' (music pauses/unpauses with the game)
-- High scores saved to scores.txt after each game over
-- Slow initial speed, increases per level
-"""
-
 import pygame
 import sys
 import random

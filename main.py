@@ -26,7 +26,7 @@ GAME_OVER_SOUND_FILE = RESOURCES_DIR / "gameover.wav"
 SCORES_FILE = "scores.txt"
 
 # Gameplay tuning
-BASE_SPEED = 3             # very slow starting speed (level 1)
+BASE_SPEED = 2             # very slow starting speed (level 1)
 SPEED_PER_LEVEL = 2
 POINTS_PER_LEVEL = 5
 MAX_SPEED = 20             # safety cap (optional)
